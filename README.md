@@ -35,7 +35,7 @@ Execute the program using runserver command.
         </center>
         <br>
         <table align="center" bgcolor="cyan" cellspacing="2"cellpadding="4"width="750"border="5">
-            <caption><b>SLOT TIME TABLE - PRAVEEN S (25009816)<b><caption>
+            <caption><b>SLOT TIME TABLE - MOHAMMED SHAMEER M (25011192)<b><caption>
             <tr align="center">
                 <th bgcolor="blue">DAY/TIME</th>
                 <th bgcolor="blue">MONDAY</th>
